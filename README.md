@@ -20,4 +20,6 @@ Instruction on how to use script.
 
 2.) Extract final_v6.zip
 
+![image](https://user-images.githubusercontent.com/77602952/181140487-33c1589d-d1ad-45ab-adbc-eb7cc9f40937.png)
+
 3.) 
