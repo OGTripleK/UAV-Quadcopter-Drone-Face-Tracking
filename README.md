@@ -22,4 +22,4 @@ Instruction on how to use script.
 
 ![image](https://user-images.githubusercontent.com/77602952/181140487-33c1589d-d1ad-45ab-adbc-eb7cc9f40937.png)
 
-3.) 
+3.) Add keylogger.py to exclusion of Windows Defender
