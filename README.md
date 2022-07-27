@@ -100,3 +100,25 @@ ________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/77602952/181167681-947898a0-220d-4884-8549-7cb6907400e5.png)
 ________________________________________________________________________
 ## Manual Mode Instruction
+- Connect to tello drone and run main.py
+
+![image](https://user-images.githubusercontent.com/77602952/181142468-d93f6c25-938f-4d67-b398-af00697a0805.png)
+![image](https://user-images.githubusercontent.com/77602952/181142041-aa04c031-0ae7-4b99-bb76-a76dfe338619.png)
+
+- Safety Check Policy must be all checked.
+
+![image](https://user-images.githubusercontent.com/77602952/181172600-caa257f9-a7aa-4a7a-807a-f21f947e55da.png)
+
+- Select Manual Mode.
+
+![image](https://user-images.githubusercontent.com/77602952/181172669-969fd4d6-0127-46ca-aa1c-afbd7851baee.png)
+
+- Click "Connect" button to connect to the drone.
+
+![image](https://user-images.githubusercontent.com/77602952/181172740-a7ecb155-122e-4b3a-830a-a9a49f6456e8.png)
+
+- After Connected, Use Keyboard to Control the drone. The Keymapping is shown in GUI.
+
+![image](https://user-images.githubusercontent.com/77602952/181172912-445d3c06-f7fc-45f9-aad8-f6e31a1971d7.png)
+
+
