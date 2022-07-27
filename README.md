@@ -96,7 +96,7 @@ ________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/77602952/181166527-39ed6392-4e32-4603-bdb6-f26542a7afcd.png)
 
 - After Drone take off, center your face at the middle of the drone camera and it will start tracking.
-![image](https://user-images.githubusercontent.com/77602952/181167119-17118225-d955-437e-bf25-a16c85c6a659.png)
+![image](https://user-images.githubusercontent.com/77602952/181188311-0ec1581c-f6f8-4fb7-8ee1-7ecbf4e36f15.png)
 
 - To land the drone, click "Auto Mode Take Off / Landing" again to land.
 ![image](https://user-images.githubusercontent.com/77602952/181167402-9373afc5-065f-402e-8650-6248f0333597.png)
