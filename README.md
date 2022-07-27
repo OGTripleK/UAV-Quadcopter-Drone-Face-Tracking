@@ -12,6 +12,9 @@ Required Libraries
 - djitellopy
 - threading
 ________________________________________________________________________
+### Content
+[Here](https://github.com/OGTripleK/UAV-Quadcopter-Drone-Face-Tracking/edit/main/README.md#auto-mode-instruction)
+________________________________________________________________________
 Instruction on how to use script.
 
 1.) Download final_v6.zip
@@ -43,7 +46,8 @@ Instruction on how to use script.
 ![image](https://user-images.githubusercontent.com/77602952/181144106-9bc2aa05-6de7-4bf7-9343-085e86d65f23.png)
 ________________________________________________________________________
 
-Drone Controller GUI guide:
+### Drone Controller GUI guide
+
 - Battery and Temperature are displayed on top-right of the GUI.
 ![image](https://user-images.githubusercontent.com/77602952/181144538-da2b78fb-48cd-4e25-916c-e321d3af5ab1.png)
 
@@ -73,3 +77,26 @@ Drone Controller GUI guide:
 
 - Drone Camera when connected are show in this section.
 ![image](https://user-images.githubusercontent.com/77602952/181164500-6ea91063-8e09-46cf-88be-0ffa7f2d62c9.png)
+________________________________________________________________________
+### Auto Mode Instruction
+- Connect to tello drone and run main.py
+
+![image](https://user-images.githubusercontent.com/77602952/181142468-d93f6c25-938f-4d67-b398-af00697a0805.png)
+![image](https://user-images.githubusercontent.com/77602952/181142041-aa04c031-0ae7-4b99-bb76-a76dfe338619.png)
+
+- Safety Check Policy must be all checked, then press connect.
+![image](https://user-images.githubusercontent.com/77602952/181166100-7f74a078-7d6e-46ba-a4a0-c3e1fbf5e073.png)
+
+- After camera are shown, click "Auto Mode Take Off / Landing" to take off
+![image](https://user-images.githubusercontent.com/77602952/181166527-39ed6392-4e32-4603-bdb6-f26542a7afcd.png)
+
+- After Drone take off, center your face at the middle of the drone camera and it will start tracking.
+![image](https://user-images.githubusercontent.com/77602952/181167119-17118225-d955-437e-bf25-a16c85c6a659.png)
+
+- To land the drone, click "Auto Mode Take Off / Landing" again to land.
+![image](https://user-images.githubusercontent.com/77602952/181167402-9373afc5-065f-402e-8650-6248f0333597.png)
+
+- To disconnect drone, click "Connect" button again to disconnect.
+![image](https://user-images.githubusercontent.com/77602952/181167681-947898a0-220d-4884-8549-7cb6907400e5.png)
+________________________________________________________________________
+## Manual Mode Instruction
