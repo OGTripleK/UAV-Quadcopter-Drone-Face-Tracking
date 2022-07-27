@@ -10,7 +10,7 @@ Required Libraries
 - threading `pip install threading`
 ________________________________________________________________________
 ### Content
-- [Setting Up Script](#instruction-on-how-to-use-script)
+- [Setting Up Guide](#instruction-on-how-to-use-script)
 - [Drone Controller GUI guide](#drone-controller-gui-guide)
 - [Auto Mode Instruction](#auto-mode-instruction)
 - [Manual Mode Instruction](#manual-mode-instruction)
