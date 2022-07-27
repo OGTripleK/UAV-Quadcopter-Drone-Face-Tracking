@@ -14,6 +14,7 @@ ________________________________________________________________________
 - [Drone Controller GUI guide](#drone-controller-gui-guide)
 - [Auto Mode Instruction](#auto-mode-instruction)
 - [Manual Mode Instruction](#manual-mode-instruction)
+- [Miscellaneous](#miscellaneous)
 ________________________________________________________________________
 ### Instruction on how to use script.
 
@@ -124,5 +125,6 @@ ________________________________________________________________________
 - After Connected, Use Keyboard to Control the drone. The Keymapping is shown in GUI.
 
 ![image](https://user-images.githubusercontent.com/77602952/181172912-445d3c06-f7fc-45f9-aad8-f6e31a1971d7.png)
-
-
+________________________________________________________________________
+### Miscellaneous
+- After Captured pictures, the photo will be stored on 'Captured/'.
