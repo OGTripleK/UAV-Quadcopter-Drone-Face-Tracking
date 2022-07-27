@@ -2,20 +2,20 @@
 Created by Parsawit Deshwattanatham and Jessakorn Paopatimakorn under supervision of Professor Dr.Eng.Ryo Tanaka
 ________________________________________________________________________
 Required Libraries
-- pyqt5
-- pynput
-- numpy
-- random
-- cv2
-- sys
-- time
-- djitellopy
-- threading
+- pyqt5     `pip install pyqt5`
+- pynput    `pip install pynput`
+- numpy     `pip install numpy`
+- cv2       `pip isntall cv2`
+- djitellopy`pip install djitellopy` 
+- threading `pip install threading`
 ________________________________________________________________________
 ### Content
-[Here]([https://github.com/OGTripleK/UAV-Quadcopter-Drone-Face-Tracking/edit/main/README.md#auto-mode-instruction](https://github.com/OGTripleK/UAV-Quadcopter-Drone-Face-Tracking/blob/main/README.md#auto-mode-instruction))
+- [Setting Up Script](#instruction-on-how-to-use-script)
+- [Drone Controller GUI guide](#drone-controller-gui-guide)
+- [Auto Mode Instruction](#auto-mode-instruction)
+- [Manual Mode Instruction](#manual-mode-instruction)
 ________________________________________________________________________
-Instruction on how to use script.
+### Instruction on how to use script.
 
 1.) Download final_v6.zip
 
