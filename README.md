@@ -13,7 +13,7 @@ Required Libraries
 - threading
 ________________________________________________________________________
 ### Content
-[Here](https://github.com/OGTripleK/UAV-Quadcopter-Drone-Face-Tracking/edit/main/README.md#auto-mode-instruction)
+[Here]([https://github.com/OGTripleK/UAV-Quadcopter-Drone-Face-Tracking/edit/main/README.md#auto-mode-instruction](https://github.com/OGTripleK/UAV-Quadcopter-Drone-Face-Tracking/blob/main/README.md#auto-mode-instruction))
 ________________________________________________________________________
 Instruction on how to use script.
 
