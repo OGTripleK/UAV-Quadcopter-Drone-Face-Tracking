@@ -22,4 +22,6 @@ Instruction on how to use script.
 
 ![image](https://user-images.githubusercontent.com/77602952/181140487-33c1589d-d1ad-45ab-adbc-eb7cc9f40937.png)
 
-3.) Add keylogger.py to exclusion of Windows Defender
+3.) Add Final_v6 folder into Exclusion of Window Defenders
+
+- how to add folder to exclusion list --> [Click here](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26#:~:text=Go%20to%20Start%20>%20Settings%20>%20Update,%2C%20file%20types%2C%20or%20process.)
