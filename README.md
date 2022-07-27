@@ -49,6 +49,8 @@ Setting Up Guide Video : [Youtube Link](https://youtu.be/ZkW8kbGyPmc)
 6.) GUI will be shown right after script ran
 
 ![image](https://user-images.githubusercontent.com/77602952/181144106-9bc2aa05-6de7-4bf7-9343-085e86d65f23.png)
+
+*** IMPORTANT : TELLO DRONE MUST BE CONNECTED TO PC BEFORE RUNNING, OTHERWISE ERROR WILL OCCOURED.
 ________________________________________________________________________
 
 ### Drone Controller GUI guide
