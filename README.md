@@ -16,6 +16,8 @@ Instruction on how to use script.
 
 1.) Download final_v6.zip
 
+![image](https://user-images.githubusercontent.com/77602952/181140108-322fd0b2-5233-4e03-9835-7ce31b25f993.png)
+
 2.) Extract final_v6.zip
 
 3.) 
