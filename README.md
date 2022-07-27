@@ -69,4 +69,7 @@ Drone Controller GUI guide:
 ![image](https://user-images.githubusercontent.com/77602952/181159170-365fad48-bbd0-4568-94a5-486e01c19463.png)
 
 - All drone information are shown on this section.
-![image](https://user-images.githubusercontent.com/77602952/181163177-a8516e17-3348-4055-8963-ae0c5e28252d.png)
+![image](https://user-images.githubusercontent.com/77602952/181163732-ef4b5d6d-bd5a-45eb-ac28-d666930f81f2.png)
+
+- Drone Camera when connected are show in this section.
+![image](https://user-images.githubusercontent.com/77602952/181164500-6ea91063-8e09-46cf-88be-0ffa7f2d62c9.png)
