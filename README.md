@@ -1,5 +1,5 @@
 # UAV Quadcopter Drone - Face Tracking
-Created by Parsawit Deshwattanatham and Jessakorn Paopatimakorn under supervision of Professor Dr.Eng.Ryo Tanaka
+Created by Parsawit Deshwattanatham and Jessakorn Paopatimakorn under supervision of Professor Dr.Eng.Ryo TANAKA
 ________________________________________________________________________
 Required Libraries
 - pyqt5     `pip install pyqt5`
