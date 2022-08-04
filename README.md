@@ -5,7 +5,7 @@ Required Libraries
 - pyqt5     `pip install pyqt5`
 - pynput    `pip install pynput`
 - numpy     `pip install numpy`
-- cv2       `pip isntall cv2`
+- cv2       `pip install cv2`
 - djitellopy`pip install djitellopy` 
 - threading `pip install threading`
 ________________________________________________________________________
